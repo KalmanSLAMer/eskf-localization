@@ -9,9 +9,9 @@ https://epan-utbm.github.io/utbm_robocar_dataset/
 
 ## 2.Demo
 
-[eskf-localization/two_localization_result.png at master · KalmanSLAMer/eskf-localization (github.com)](https://github.com/KalmanSLAMer/eskf-localization/blob/master/doc/two_localization_result.png)
+![two_localization_result](https://github.com/KalmanSLAMer/eskf-localization/blob/master/doc/two_localization_result.png)
 
-[eskf-localization/localization_result.png at master · KalmanSLAMer/eskf-localization (github.com)](https://github.com/KalmanSLAMer/eskf-localization/blob/master/doc/localization_result.png)
+![localization_result](https://github.com/KalmanSLAMer/eskf-localization/blob/master/doc/localization_result.png)
 
 ## 3.Prerequisites
 
